@@ -113,10 +113,10 @@
 * Google Hosts 请移步 https://github.com/googlehosts/hosts
 
 # Clash规则说明：
-* ACL4SSR_Omline 默认版分组比较全（与Github同步）
+* ACL4SSR_Online 默认版分组比较全（与Github同步）
 * ACL4SSR_Online_AdblockPlus 更多去广告（与Github同步）
 * ACL4SSR_OnlineNoAuto 无自动测速（与Github同步）
-* ACL4SSR_Omline_NoReject 无广告拦截规则（与Github同步)
+* ACL4SSR_Online_NoReject 无广告拦截规则（与Github同步)
 * ACL4SSR_Online_Mini 精简版（与Github同步)
 * ACL4SSR_Online_Mini_AdblockPlus.ini 精简版更多去广告（与Github同步)
 * ACL4SSR_OnlineMini_NoAuto.ini 精简版不带自动测速（与Github同步）
