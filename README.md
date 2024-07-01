@@ -112,6 +112,30 @@
 * https://github.com/neko-dev/neohosts
 * Google Hosts 请移步 https://github.com/googlehosts/hosts
 
+# Clash规则说明：
+* ACL4SSR_Omline 默认版分组比较全（与Github同步）
+* ACL4SSR_Online_AdblockPlus 更多去广告（与Github同步）
+* ACL4SSR_OnlineNoAuto 无自动测速（与Github同步）
+* ACL4SSR_Omline_NoReject 无广告拦截规则（与Github同步)
+* ACL4SSR_Online_Mini 精简版（与Github同步)
+* ACL4SSR_Online_Mini_AdblockPlus.ini 精简版更多去广告（与Github同步)
+* ACL4SSR_OnlineMini_NoAuto.ini 精简版不带自动测速（与Github同步）
+* ACL4SSR_Online_Mini_Fallback.ini 精简版带故障转移（与Github同步)
+* ACL4SSR_Online_Mini_MultiMode.ini 精简版自动测速、故障转移、负载均衡（与Github同步)
+* ACL4SSR_Online_Full 全分组重度用户使用(与Github同步)
+* ACL4SSR_Online_Full_NoAuto.ini 全分组无自动测速重度用户使用(与Github同步)
+* ACL4SSR_Online_Full_AdblockPlus 全分组重度用户使用更多去广告（与Github同步）
+* ACL4SSR_Online_Full_Netflix 全分组重度用户使用奈飞全量（与Github同步)
+* ACL4SSR 本地默认版分组比较全
+* ACL4SSRMini 本地精简版
+* ACL4SSRMiniNoAuto.ini 本地精简版+无自动测速
+* ACL4SSRMiniFallback.ini 本地精简版+fallback
+* ACL4SSR_BackCN 本地回国
+* ACL4SSR_NoApple 本地无苹果分流
+* ACL4SSRNoAuto 本地无自动测速
+* ACL4SSR_NoAuto_NoApple 本地无自动测速&无苹果分流
+* ACL4SSR_NoMicrosoft 本地无微软分流
+* ACL4SSRWithGFW 本地GFW列表
 
 # 注：
 
